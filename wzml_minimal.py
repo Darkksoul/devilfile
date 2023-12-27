@@ -3,9 +3,9 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '🛠️ Updates'
-    ST_BN1_URL = 'https://telegram.me/PanindiaFilmZ'
+    ST_BN1_URL = 'https://telegram.me/DevilServers'
     ST_BN2_NAME = '😘 Use Me'
-    ST_BN2_URL = 'https://telegram.me/PanindiaFilmZ'
+    ST_BN2_URL = 'https://telegram.me/DevilServers'
     ST_MSG = '''<b>✨ 𝐏𝐈𝐅 ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
     ST_BOTPM = '''<b>🕵️ Bot PM Initiated Successfully!\n\nℹ️ I will send all your files and links here.</b>'''
     ST_UNAUTH = '''<b>⚠️ Access Denied!</b>'''
@@ -30,7 +30,7 @@ class WZMLStyle:
 ┠<b>Total Disk Write :</b> {disk_write}
 ┗<b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>
     
     '''
     SYS_STATS = '''<b>🛠 <u>𝙎𝙮𝙨𝙩𝙚𝙢 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨</u></b>
@@ -54,7 +54,7 @@ class WZMLStyle:
 ┠<b>Pkts Received:</b> {pkt_recv}k
 ┗<b>Total I/O Data:</b> {tl_data}
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>
     '''
     REPO_STATS = '''<b>🧑‍💻 <u>𝙍𝙚𝙥𝙤 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨</u></b>
     
@@ -65,7 +65,7 @@ class WZMLStyle:
 
 <b>💥 REMARKS :</b> <code>{remarks}</code>
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>
     '''
     BOT_LIMITS = '''<b>❗<u>𝘽𝙤𝙩 𝙇𝙞𝙢𝙞𝙩𝙨</u></b>
     
@@ -83,7 +83,7 @@ class WZMLStyle:
 ┠<b>👤 User Tasks :</b> {UT}
 ┗<b>🚧 Total Tasks :</b> {BT}
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>
     '''
     # ---------------------
 
@@ -99,7 +99,7 @@ class WZMLStyle:
 ┠<b>🌍 TimeZone:</b> {timz}
 ┗<b>🆔 Version:</b> {version}
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>'''
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>'''
     RESTARTED = '''<b>🔄 Bot Restarted!</b>'''
     # ---------------------
 
@@ -221,7 +221,7 @@ class WZMLStyle:
     COUNT_TYPE = '┠<b>📜 Type: </b>{COUNT_TYPE}\n'
     COUNT_SUB =  '┠<b>🗂️ SubFolders: </b>{COUNT_SUB}\n'
     COUNT_FILE = '┠<b>📂 Files: </b>{COUNT_FILE}\n'
-    COUNT_CC =   '┗<b>👤 User: </b>{COUNT_CC}\n\n<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>'
+    COUNT_CC =   '┗<b>👤 User: </b>{COUNT_CC}\n\n<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>'
     # ---------------------
 
     # LIST ---> gd_list.py
@@ -248,7 +248,7 @@ class WZMLStyle:
 ┠<b>🔮 DC :</b> <code>{DC}</code>
 ┗<b>🗣️ Language :</b> <code>{LANG}</code>
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>'''
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>'''
 
     UNIVERSAL = '''㊂ <b><u>Universal</u></b>
 
@@ -259,7 +259,7 @@ class WZMLStyle:
 ┠<b>🕵️ Bot PM :</b> <code>{BOT_PM}</code>
 ┗<b>📩 Save Mode :</b> <code>{SAVE_MODE}</code>
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>'''
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>'''
 
     MIRROR = '''㊂ <b><u>Mirror/Clone</u></b>
 
@@ -272,7 +272,7 @@ class WZMLStyle:
 ┠<b>📮 User TD :</b> <code>{TMODE}</code>
 ┗<b>📝 TD Info:</b> <code>{USERTD}</code>
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>'''
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>'''
 
     LEECH = '''㊂ <b><u>Leech Settings</u></b>
 
@@ -288,4 +288,4 @@ class WZMLStyle:
 ┠<b>📦 Dump :</b> <code>{LDUMP}</code>
 ┗<b>🌈 Remname :</b> <code>{LREMNAME}</code>
 
-<a href="https://t.me/Matiz_Techz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Matiz_Techz</b></a>'''
+<a href="https://t.me/DevilServers"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @DevilServers</b></a>'''
